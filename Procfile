@@ -1,1 +1,1 @@
-web: gunicorn opticalcharacter-recognitions.wsgi
+web: gunicorn pp:app
