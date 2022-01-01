@@ -1,1 +1,1 @@
-web: gunicorn run:opticalcharacter-recognitions
+web: gunicorn app: app
